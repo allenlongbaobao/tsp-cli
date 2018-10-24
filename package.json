@@ -1,5 +1,5 @@
 {
-  "name": "tsp-cli",
+  "name": "tspro-cli",
   "version": "1.0.0",
   "description": "typescript 工程自动构建脚手架",
   "main": "index.js",
@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "tsp-cli": "bin/tsp-cli"
+    "tspro-cli": "bin/tspro-cli"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/allenlongbaobao/tsp-cli.git"
+    "url": "git+ssh://git@github.com/allenlongbaobao/tspro-cli.git"
   },
   "keywords": [
     "typescript",
@@ -20,9 +20,9 @@
   "author": "allen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/allenlongbaobao/tsp-cli/issues"
+    "url": "https://github.com/allenlongbaobao/tspro-cli/issues"
   },
-  "homepage": "https://github.com/allenlongbaobao/tsp-cli#readme",
+  "homepage": "https://github.com/allenlongbaobao/tspro-cli#readme",
   "dependencies": {
     "chalk": "^2.4.1",
     "co": "^4.6.0",
